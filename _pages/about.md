@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), advised by [Prof. Junxian He](https://jxhe.github.io/). I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024, where I was also previously advised by Prof. Junxian He during my undergraduate studies.
+I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), advised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was also previously advised by Prof. Junxian He during my undergraduate studies.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 - LLM Reasoning and Reinforcement Learning
@@ -30,7 +30,7 @@ Publications
 
 **2025**
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**  
-  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. [[Code]](https://github.com/Vicent0205/SynLogic)
+  Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025.
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**  
   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. [[Code]](https://github.com/Vicent0205/Vision4Chart)
